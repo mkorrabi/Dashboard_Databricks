@@ -12,7 +12,9 @@ Nous avons besoin d'améliorer notre compréhension et notre gestion de projets 
 
 ### Processus de Recherche et Découverte
 
-Après plusieurs réunions pour affiner et comprendre techniquement nos besoins, nous avons établi les interprétations suivantes des besoins et des solutions techniques possibles, comme illustré dans la Figure 25.
+Après plusieurs réunions pour affiner et comprendre techniquement nos besoins, nous avons établi les interprétations suivantes des besoins et des solutions techniques possibles, comme illustré dans la Figure ci-dessous.
+![Schéma explicatif](cpt22.png "Schéma des flux de données")
+
 
 ### Solutions Explorées
 
