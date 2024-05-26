@@ -13,12 +13,12 @@ Nous avons besoin d'améliorer notre compréhension et notre gestion de projets 
 ### Processus de Recherche et Découverte
 
 Après plusieurs réunions pour affiner et comprendre techniquement nos besoins, nous avons établi les interprétations suivantes des besoins et des solutions techniques possibles, comme illustré dans la Figure ci-dessous.
-![Schéma explicatif](cpt22.png "Schéma des flux de données")
+![Schéma explicatif](cpt22.png)
 
 
 ### Solutions Explorées
 
-Nous avons testé plusieurs solutions disponibles sur le marché. Les résultats ont montré que certaines plateformes comme Power BI répondent partiellement à nos besoins en visualisation de données et permettent l'exécution de scripts Python. Cependant, elles ne facilitent pas l'accès à un notebook Python pour l'explicabilité des modèles avec des bibliothèques comme "shap", comme indiqué dans la Figure 26 et 27.
+Nous avons testé plusieurs solutions disponibles sur le marché. Les résultats ont montré que certaines plateformes comme Power BI répondent partiellement à nos besoins en visualisation de données et permettent l'exécution de scripts Python. Cependant, elles ne facilitent pas l'accès à un notebook Python pour l'explicabilité des modèles avec des bibliothèques comme "shap.
 
 ### Décisions et Mise en Place
 
