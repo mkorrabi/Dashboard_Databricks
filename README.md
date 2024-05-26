@@ -1,6 +1,3 @@
-Voici un exemple de fichier README formaté en Markdown pour documenter les points évoqués dans votre description :
-
----
 
 ## Dashboards
 
@@ -33,6 +30,3 @@ Nous utilisons désormais Dataiku et Databricks comme solutions internes, tout e
 
 Ce sujet est toujours en cours d'évolution. Nous nous efforçons de simplifier les processus de création de comptes, de partage de tableaux de bord et de gestion des accès. Une partie de ma mission est de tester et de démontrer les fonctionnalités de Dataiku et Databricks pour assurer une compréhension et une adoption uniformes au sein de Groupama.
 
----
-
-Ce README en Markdown vous permettra de documenter clairement les objectifs, les procédures, et les décisions importantes de votre projet de façon structurée et accessible.
